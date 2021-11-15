@@ -5,6 +5,7 @@
 I'm Lucas, a future web developer from Nantes, France ! 
 
 I'm studying web developement at Wild Code School.
+
 🌱 I’m currently learning : 
   - HTML / CSS
   - Javascript (React and Node.js)
