@@ -2,11 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-rossolini&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-rossolini" /> </p>
 
-I'm Lucas, a future web developer from Nantes, France ! 
+I'm Lucas, a web developer from Nantes, France ! 
 
-I'm studying web developement at Wild Code School.
-
-🌱 I’m currently learning : 
+🌱 I’m currently working with : 
   - HTML / CSS
   - Javascript (React and Node.js)
 
