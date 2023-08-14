@@ -4,9 +4,7 @@
 
 I'm Lucas, a web developer from Nantes, France ! 
 
-🌱 I’m currently working with : 
-  - HTML / CSS
-  - Javascript (React and Node.js)
+💻 Currently working as a front-end developer at <a href="https://www.wonder-partners.com/">Wonder Partner's</a>. 
 
 <img align="center" src="./Responsive.gif" alt="responsive animation" />
  
