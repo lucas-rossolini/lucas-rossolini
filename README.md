@@ -10,11 +10,9 @@ I'm Lucas, a web developer from Nantes, France !
  
 ### Feel free to get in touch ! 
 
-mail : lucas.rossolini.dev@gmail.com
+mail : lucas.rossolini@gmail.com
 
 Linkedin : https://www.linkedin.com/in/lucas-rossolini
-
-portfolio : https://lucas-rossolini.github.io/portfolio/
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-rossolini&show_icons=true&locale=en" alt="lucas-rossolini" /></p>
